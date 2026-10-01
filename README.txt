@@ -6,5 +6,5 @@ then
 Made By:
 ------------------------------------
 Varun Patil	TYIT-A4		588
-Swarali Pawaskar TYIT-A4 582
-Surya Chandrasekhar TYIT--A4 581
+Swarali Pawaskar TYIT-A4   582
+Surya Chandrasekhar TYIT--A4   581
